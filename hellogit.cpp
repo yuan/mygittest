@@ -7,5 +7,6 @@ int main()
             puts("Hello world");
                 cout << "Hello world" << endl;
                     return 0;
+        //hello
 }
 
